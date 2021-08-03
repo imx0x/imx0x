@@ -5,30 +5,16 @@
  <hr>
 <h2 align="center">👨‍💻A determined individual exploring all the nooks and crannies of the Tech world!</h2>
 <p> hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</p>
+<img align="center" height="190px" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p>I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
         
 
-<!--
-**RohitShailesh/RohitShailesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitShailesh&label=Profile%20views&color=brightgreen&style=plastic" alt="RohitShailesh" /> </p>
-<img align="right" height="190px" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <h2>🤹🏻‍♂️ MY Skills 🤹🏻‍♂️</h2>  
 
 
