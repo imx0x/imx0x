@@ -15,6 +15,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitShailesh&label=Profile%20views&color=brightgreen&style=plastic" alt="RohitShailesh" /> </p>
+
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RohitShailesh&&show_icons=true&title_color=FFFF00&icon_color=FFC312&text_color=EEFBFB&bg_color=007CC7">
+</div>
 <h2 align="center">🤹🏻‍♂️ MY Skills 🤹🏻‍♂️</h2>  
 
 <div align="center">
@@ -27,10 +32,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RohitShailesh&&show_icons=true&title_color=FFFF00&icon_color=FFC312&text_color=EEFBFB&bg_color=007CC7">
 </div>
 <hr>
 <h3 align="center">Connect with me :</h3>
