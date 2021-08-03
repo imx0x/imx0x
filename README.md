@@ -3,12 +3,14 @@
          height="50"
          width="45" /></h1>
  <hr>
-<h2 align="center">👨‍💻A determined individual exploring all the nooks and crannies of the Tech world!</h2>
-<p> Hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</p>
+<h2  align="center">👨‍💻A determined individual exploring all the nooks and crannies of the Tech world!</h2>
+<h4> Hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</h4>
+<div>
 <img align="right" height="290px" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
+</div>
+<div align="right">
 <p>I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
-        
+</div>      
 
 
 
@@ -26,12 +28,12 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://masterprograming.com/wp-content/uploads/2019/03/c-programming-e1536069688313.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<code><img height="30" src="https://th.bing.com/th/id/OIP.c4RBIyTHaeRH08T4bp_waAHaGO?pid=ImgDet&rs=1"></code>
 </div>
 <hr>
 <h3 align="center">Connect with me :</h3>
