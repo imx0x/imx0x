@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitShailesh&label=Profile%20views&color=brightgreen&style=plastic" alt="RohitShailesh" /> </p>
-<img align="right" height="220px" width="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" height="190px" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RohitShailesh&&show_icons=true&title_color=FFFF00&icon_color=FFC312&text_color=EEFBFB&bg_color=007CC7">
