@@ -2,6 +2,7 @@
          alt="Waving hand animated gif"
          height="50"
          width="45" />, I'm Rohit Shailesh</h1>
+ <hr>
 <h3 align="center">👨‍💻A determined individual exploring all the nooks and crannies of the Tech world!</h3>
         
 
@@ -28,3 +29,12 @@ Here are some ideas to get you started:
 <img align="right" height="190px" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RohitShailesh&&show_icons=true&title_color=FFFF00&icon_color=FFC312&text_color=EEFBFB&bg_color=007CC7">
+<hr>
+<h3 align="center">Connect with me :</h3>
+<p align="center">
+         <a href="https://twitter.com/rohitsv91" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="adssidhu86" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rohitshailesh74/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="AmarSidhu" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100010002196732" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
+
+
