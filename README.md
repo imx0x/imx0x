@@ -11,7 +11,7 @@
 <br></br>
 
 <div align="left"  height="260px" width="270">
-<p>I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<h4>I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h4>
 </div>      
 
 
