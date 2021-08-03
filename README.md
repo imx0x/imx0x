@@ -6,7 +6,7 @@
 <h2  align="center">👨‍💻A determined individual exploring all the nooks and crannies of the Tech world!</h2>
 <h4> Hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</h4>
 <div>
-<img align="right" height="290px" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" height="260px" width="270" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 </div>
 <div align="right">
 <p>I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
