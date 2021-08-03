@@ -4,8 +4,8 @@
          width="45" /></h1>
  <hr>
 <h2 align="center">👨‍💻A determined individual exploring all the nooks and crannies of the Tech world!</h2>
-<p> hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</p>
-<img align="center" height="190px" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<p> Hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</p>
+<img align="right" height="290px" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p>I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
         
