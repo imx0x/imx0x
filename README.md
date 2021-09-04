@@ -3,7 +3,7 @@
          height="50"
          width="45" /></h1>
  <hr>
-<h2  align="center">👨‍💻A determined individual exploring all the nooks and crannies of the Tech world!</h2>
+<h2  align="center">👨‍💻I'm determined individual exploring all the nooks and crannies of the Tech world!</h2>
 <h4> Hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</h4>
 <div >
 <img align="right" height="260px" width="270" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
