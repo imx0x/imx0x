@@ -40,7 +40,7 @@
 <hr>
 <h3 align="center">Connect with me :</h3>
 <p align="center">
-         <a href="https://twitter.com/rohitsv91" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="adssidhu86" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://twitter.com/iam_rohitsv" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="adssidhu86" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rohitshailesh74/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="rohitshailesh" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100010002196732" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="rohitshailesh" height="50" width="50" /></a>
          <a href=""
