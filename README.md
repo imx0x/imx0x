@@ -21,9 +21,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitShailesh&label=Profile%20views&color=brightgreen&style=plastic" alt="RohitShailesh" /> </p>
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RohitShailesh&&show_icons=true&title_color=FFFF00&icon_color=FFC312&text_color=EEFBFB&bg_color=007CC7">
-</div>
+</div>-->
 <h2 align="center">🤹🏻‍♂️ MY Skills 🤹🏻‍♂️</h2>  
 
 <div align="center">
